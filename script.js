@@ -13,7 +13,7 @@
 
 
   const renderPokemon = async (pokemon) => {
-    const data = await fetchPokemon(pokemon);
+    const data = await fetchPokemon(pokemon.toLowerCase());
 
     pokemonName.innerHTML = data.name.toUpperCase();
     pokemonSprite.src = data.sprites.other["official-artwork"].front_default;
