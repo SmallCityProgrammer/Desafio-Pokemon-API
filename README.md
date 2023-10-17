@@ -1,6 +1,6 @@
 # Desafio-Pokemon-API
 ![Screenshot](https://i.imgur.com/FWQpm48.png)<br>
-<a href="https://hex-color-generator.vercel.app/">Link do Projeto</a><br><br>
+<a href="https://desafio-pokemon-api.vercel.app/">Link do Projeto</a><br><br>
 Aplicativo de Informações sobre Pokémon
 Este repositório contém um código JavaScript que busca e exibe informações sobre um Pokémon usando a PokeAPI. O código tem finalidades educacionais e fornece um exemplo básico do uso de JavaScript assíncrono (async/await) para buscar dados de uma API externa e atualizar dinamicamente a página da web.
 
