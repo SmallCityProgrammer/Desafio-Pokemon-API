@@ -24,7 +24,7 @@
 
   button.addEventListener("click", (event) => {
     event.preventDefault();
-    renderPokemon(input.value);
+    renderPokemon(input.value.toLowerCase());
   })
 
   
