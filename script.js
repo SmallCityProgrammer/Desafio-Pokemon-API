@@ -11,6 +11,7 @@
     return data;
   }
 
+  //Renderizando os pokemons
   const renderPokemon = async (pokemon) => {
     const data = await fetchPokemon(pokemon.toLowerCase());
 
