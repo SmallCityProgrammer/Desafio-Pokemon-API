@@ -20,6 +20,8 @@
     pokemonId.innerHTML = data.id;
     console.log(data);
   }  
+  
+  //renderiza o primeiro pokemon por padrão
   renderPokemon("1")
 
   button.addEventListener("click", (event) => {
