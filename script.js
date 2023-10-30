@@ -24,6 +24,7 @@
   //renderiza o primeiro pokemon por padrão
   renderPokemon("1")
 
+  //clicar no botão de enviar gera uma busca por ID ou Nome do pokemon
   button.addEventListener("click", (event) => {
     event.preventDefault();
     renderPokemon(input.value.toLowerCase());
