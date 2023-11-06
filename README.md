@@ -1,4 +1,4 @@
-# Desafio-Pokemon-API
+# Pokemon-API Website
 ![Screenshot](https://i.imgur.com/FWQpm48.png)<br>
 <a href="https://desafio-pokemon-api.vercel.app/">Link do Projeto</a><br><br>
 Aplicativo de Informações sobre Pokémon
